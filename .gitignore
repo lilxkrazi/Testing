@@ -1,0 +1,8 @@
+X-Wing Unity/Library
+X-Wing Unity/Temp
+
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
